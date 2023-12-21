@@ -5,6 +5,9 @@ saksdjalksjd
 asdfkjasdfklj;
 create a branch;
 生成一个冲突
+
+
+sdfioj
 main文件里面的冲突行
 main文件里面的冲突行
 
